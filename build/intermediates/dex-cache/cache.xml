@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7251d16ef884786b5f2075a6a93716cbe3c34ed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_134f9d4a90cfeead69a7edb6970934ec843a5ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d296b955121189971de1e66c7719a415204f76ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_6cc87037e84ff1e6f41fa741ee85f938a1a00195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0de2847813475d5e004e5444bcf90a782256383d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e735ca9697a2c7c0b78fc4a587a71e3ba49872ec">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3a63c9e9137e0713eb6fd63b613598990967c68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d41a218bbd71cedb8f3450c8a1a7fed675f61c85">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_796c906d59159b3bbf79901c9d9d3db968d49ec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7b64bf636329b3b7f554858bf1f08fc002a4a4b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/aadil/Desktop/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_010054d7c0818f4a02ec804ff06482106d365cf0/classes.dex" />
+    </item>
+
+</items>
